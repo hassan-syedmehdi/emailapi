@@ -54,7 +54,7 @@ public class EmailapiApplication {
 			
 			@Override
 			protected PasswordAuthentication getPasswordAuthentication(){
-				return new PasswordAuthentication("hassan.syedmehdi@gmail.com", "yaalimadad");
+				return new PasswordAuthentication("hassan.syedmehdi@gmail.com", "*****");
 			}
 		});
 
